@@ -1,0 +1,15 @@
+{
+    "name": "my-game-system",
+    "title": "Mon Système de Jeu",
+    "description": "Un système de jeu personnalisé pour Foundry VTT.",
+    "version": "1.0.0",
+    "author": "Ton Nom",
+    "scripts": [
+        "module/scripts/initiative.js"
+    ],
+    "styles": [
+        "module/styles/style.css"
+    ],
+    "packs": [],
+    "system": "custom"
+}
